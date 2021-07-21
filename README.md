@@ -15,7 +15,7 @@
 可选参数
 
 <details>
-    <summary>点击展开</summary>
+    <summary><u><b>点击展开</b></u></summary>
 
 ## `url`
 图片链接
@@ -73,7 +73,7 @@
 # Deployment
 首先申请一个Github的token，至少要拥有仓库权限
 
-步骤：右上角头像->Settings->Developer settings->Personal access tokens->Generate new token->Select scopes->repo->Generate token
+步骤：`右上角头像`->`Settings`->`Developer settings`->`Personal access tokens`->`Generate new token`->`Select scopes`->`repo`->`Generate token`
 
 > 请不要将此token交给任何人!
 
@@ -82,9 +82,10 @@
 [![Deploy to Vercel](https://camo.githubusercontent.com/f209ca5cc3af7dd930b6bfc55b3d7b6a5fde1aff/68747470733a2f2f76657263656c2e636f6d2f627574746f6e)](https://vercel.com/import/project?template=https://github.com/beiyuouo/awesome-icon)
 
 配置环境变量`GITHUB_TOKEN`
-![](docs/images/gh_token_env_init)
+![](docs/images/gh_token_env_init.jpg)
 
 根据vercel分配的domain就可以愉快的玩耍了！
 
 # Reference
-- [https://github.com/RimoChan/unv-shield](https://github.com/RimoChan/unv-shield) - 我实在看不惯这种中文编程了呜呜呜
+- [https://github.com/RimoChan/unv-shield](https://github.com/RimoChan/unv-shield) 
+> 我实在看不惯这种中文编程呜呜呜
