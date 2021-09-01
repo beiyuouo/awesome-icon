@@ -1,6 +1,6 @@
 hrml==1.0.2
 numpy==1.19.2
-jinja2==2.11.2
+jinja2==2.11.3
 PyGithub==1.55
 requests==2.24.0
 Flask==1.1.2
